@@ -6,7 +6,7 @@ A video game created in C which involves software and hardware such as LEDR, PS/
 * Can upload the game to https://cpulator.01xz.net/
 * Choose DE1-SOC Board 
 
-## Approach #2: DE1-Board 
+## Approach #2: DE1-Soc Board 
 * Can uload the code using Quartus Prime and a DE1-SOC Board
 * Need a PS/2 Keyboard to control the game 
 * Need Audio I/O Devices for sound to play 
